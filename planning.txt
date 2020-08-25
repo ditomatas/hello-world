@@ -1,0 +1,15 @@
+Thinking about projects for the pi.
+
+HUB DISPLAY
+- A place to display everything going on in my world. Shopping lists, emails, calendar, reading and writing
+  activity. Could synchronize with my Wyze data, get info on sleep habits and exercise. Weather, etc,
+  all in one place.
+
+  NEEDS FOR THE HUB:
+  - GUI functionality as from tkinter, KIVY, or pygame
+  - Possibility of Wyze integration? Search out
+  - General ability to query data (e.g. weather services, email server)
+  - Rest of data can be stored locally on the pi, or could use a third party service
+    to sync with phone or laptop
+  - Mechanics of always-on display (best practices, efficiency and machine-friendliness)
+
